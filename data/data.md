@@ -1,17 +1,4 @@
-## Dataset
 
-This project uses the **PlantVillage Dataset** (RGB images) from the `raw/color` directory.
-
-The original PlantVillage dataset contains **38 disease and healthy leaf classes**. For this project, a **subset of 10 classes** was selected to build and evaluate the CNN model.
-
-### Selected Classes
-
-| Plant | Classes |
-|--------|---------|
-| Apple | Apple Scab, Black Rot, Healthy |
-| Corn | Common Rust, Healthy |
-| Grape | Black Rot, Healthy |
-| Potato | Early Blight, Late Blight, Healthy |
 
 ### Dataset Source
 
